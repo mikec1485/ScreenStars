@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+PixInsight XML Code Signature Format - XSGN version 1.0
+Created with PixInsight software - https://pixinsight.com/
+-->
+<xsgn version="1.0" xmlns="http://www.pixinsight.com/xsgn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pixinsight.com/xsgn http://pixinsight.com/xsgn/xsgn-1.0.xsd">
+   <CreationTime>2023-07-10T15:11:04.369Z</CreationTime>
+   <Signature version="1.0" scriptId="ScreenStars" developerId="Mike Cranfield">
+      <Timestamp>2023-07-10T15:11:04.369Z</Timestamp>
+      <Entitlements></Entitlements>
+      <CodeSignature encoding="Base64">cs0Enb/OzkHhnL68V5Tix0Trgm0IqbNcxBEELc2XcSizPGa1moHCtLFAzyINgEIJ48GKelq4bX+ARPqcwJrCCA==</CodeSignature>
+   </Signature>
+</xsgn>
