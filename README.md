@@ -1,1 +1,1 @@
-# screenstars
+# ScreenStars
